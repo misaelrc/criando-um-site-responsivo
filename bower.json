@@ -1,0 +1,21 @@
+{
+  "name": "site",
+  "homepage": "https://github.com/misaelrc/criando-um-site-responsivo",
+  "authors": [
+    "misaelrc <mizael.roza@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.2"
+  }
+}
